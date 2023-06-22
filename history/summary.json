@@ -16,5 +16,41 @@
     "timeMonth": 484,
     "timeYear": 484,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Dashboard",
+    "url": "https://usizy.com/dashboard/health-check/",
+    "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
+    "slug": "dashboard",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 564,
+    "timeDay": 564,
+    "timeWeek": 564,
+    "timeMonth": 564,
+    "timeYear": 564,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Help",
+    "url": "https://help3.usizy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/help3.usizy.com.ico",
+    "slug": "help",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 236,
+    "timeDay": 236,
+    "timeWeek": 236,
+    "timeMonth": 236,
+    "timeYear": 236,
+    "dailyMinutesDown": {}
   }
 ]
