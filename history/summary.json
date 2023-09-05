@@ -22,18 +22,20 @@
     "url": "https://usizy.com/dashboard/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 626,
-    "timeWeek": 662,
-    "timeMonth": 723,
-    "timeYear": 705,
-    "dailyMinutesDown": {}
+    "time": 726,
+    "timeDay": 1515,
+    "timeWeek": 880,
+    "timeMonth": 776,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2023-09-05": 0
+    }
   },
   {
     "name": "Help",
