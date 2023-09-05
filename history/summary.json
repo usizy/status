@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 615,
-    "timeDay": 359,
-    "timeWeek": 731,
-    "timeMonth": 695,
-    "timeYear": 615,
+    "time": 623,
+    "timeDay": 1277,
+    "timeWeek": 773,
+    "timeMonth": 718,
+    "timeYear": 623,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 729,
-    "timeDay": 1324,
-    "timeWeek": 887,
-    "timeMonth": 781,
-    "timeYear": 729,
-    "dailyMinutesDown": {
-      "2023-09-05": 15
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 732,
+    "timeDay": 1439,
+    "timeWeek": 899,
+    "timeMonth": 790,
+    "timeYear": 732,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Help",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 358,
-    "timeWeek": 335,
-    "timeMonth": 303,
-    "timeYear": 308,
+    "time": 310,
+    "timeDay": 432,
+    "timeWeek": 347,
+    "timeMonth": 304,
+    "timeYear": 310,
     "dailyMinutesDown": {}
   }
 ]
