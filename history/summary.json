@@ -6,18 +6,16 @@
     "slug": "usizy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 657,
-    "timeDay": 1238,
-    "timeWeek": 1016,
+    "time": 655,
+    "timeDay": 960,
+    "timeWeek": 1011,
     "timeMonth": 754,
-    "timeYear": 657,
-    "dailyMinutesDown": {
-      "2023-11-20": 7
-    }
+    "timeYear": 655,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 1648,
-    "timeWeek": 988,
-    "timeMonth": 790,
-    "timeYear": 746,
+    "time": 744,
+    "timeDay": 1525,
+    "timeWeek": 1002,
+    "timeMonth": 791,
+    "timeYear": 744,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 373,
-    "timeWeek": 351,
-    "timeMonth": 328,
-    "timeYear": 315,
+    "time": 314,
+    "timeDay": 183,
+    "timeWeek": 339,
+    "timeMonth": 326,
+    "timeYear": 314,
     "dailyMinutesDown": {}
   }
 ]
