@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 738,
-    "timeDay": 787,
-    "timeWeek": 715,
-    "timeMonth": 680,
+    "timeDay": 553,
+    "timeWeek": 714,
+    "timeMonth": 676,
     "timeYear": 760,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 755,
-    "timeDay": 3921,
-    "timeWeek": 1775,
-    "timeMonth": 1037,
-    "timeYear": 764,
+    "timeDay": 505,
+    "timeWeek": 1770,
+    "timeMonth": 1021,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2024-07-29": 20
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 396,
-    "timeWeek": 327,
-    "timeMonth": 327,
+    "timeDay": 476,
+    "timeWeek": 350,
+    "timeMonth": 331,
     "timeYear": 312,
     "dailyMinutesDown": {}
   }
