@@ -4,18 +4,20 @@
     "url": "https://usizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "usizy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 848,
-    "timeDay": 11671,
-    "timeWeek": 5142,
-    "timeMonth": 2008,
-    "timeYear": 890,
-    "dailyMinutesDown": {}
+    "time": 888,
+    "timeDay": 12728,
+    "timeWeek": 6216,
+    "timeMonth": 2435,
+    "timeYear": 936,
+    "dailyMinutesDown": {
+      "2024-08-08": 1
+    }
   },
   {
     "name": "Dashboard",
