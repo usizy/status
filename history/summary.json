@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1011,
-    "timeDay": 465,
-    "timeWeek": 674,
-    "timeMonth": 567,
+    "time": 1009,
+    "timeDay": 455,
+    "timeWeek": 696,
+    "timeMonth": 563,
     "timeYear": 939,
-    "dailyMinutesDown": {
-      "2024-10-30": 20
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
@@ -30,14 +28,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 962,
-    "timeDay": 623,
-    "timeWeek": 538,
-    "timeMonth": 554,
-    "timeYear": 830,
+    "time": 960,
+    "timeDay": 274,
+    "timeWeek": 485,
+    "timeMonth": 541,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2025-03-12": 24,
-      "2024-10-30": 15
+      "2025-03-12": 24
     }
   },
   {
@@ -52,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 339,
-    "timeWeek": 350,
-    "timeMonth": 326,
+    "timeDay": 257,
+    "timeWeek": 340,
+    "timeMonth": 327,
     "timeYear": 326,
     "dailyMinutesDown": {}
   }
