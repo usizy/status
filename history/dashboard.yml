@@ -1,7 +1,7 @@
 url: https://usizy.com/dashboard/health-check/
-status: up
-code: 200
-responseTime: 22017
-lastUpdated: 2025-11-28T16:02:54.396Z
+status: down
+code: 502
+responseTime: 7668
+lastUpdated: 2025-11-28T17:16:59.171Z
 startTime: 2023-06-22T14:47:20.000Z
 generator: Upptime <https://github.com/upptime/upptime>
