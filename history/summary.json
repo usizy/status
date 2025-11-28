@@ -4,19 +4,19 @@
     "url": "https://usizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "usizy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 1256,
-    "timeDay": 8356,
-    "timeWeek": 6495,
-    "timeMonth": 3580,
-    "timeYear": 1268,
+    "time": 1279,
+    "timeDay": 8884,
+    "timeWeek": 6932,
+    "timeMonth": 3866,
+    "timeYear": 1312,
     "dailyMinutesDown": {
-      "2025-11-28": 24
+      "2025-11-28": 19
     }
   },
   {
@@ -26,17 +26,17 @@
     "slug": "dashboard",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1156,
+    "time": 1154,
     "timeDay": 9468,
     "timeWeek": 7543,
     "timeMonth": 4326,
-    "timeYear": 1236,
+    "timeYear": 1233,
     "dailyMinutesDown": {
-      "2025-11-28": 25,
+      "2025-11-28": 19,
       "2025-03-12": 24
     }
   },
