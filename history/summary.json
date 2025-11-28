@@ -24,8 +24,8 @@
     "slug": "dashboard",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1111,
@@ -34,7 +34,7 @@
     "timeMonth": 2964,
     "timeYear": 979,
     "dailyMinutesDown": {
-      "2025-11-28": 0,
+      "2025-11-28": 2,
       "2025-03-12": 24
     }
   },
