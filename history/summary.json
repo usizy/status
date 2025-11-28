@@ -6,37 +6,34 @@
     "slug": "usizy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1250,
     "timeDay": 9055,
     "timeWeek": 6609,
     "timeMonth": 3375,
     "timeYear": 1219,
-    "dailyMinutesDown": {
-      "2025-11-28": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
     "url": "https://usizy.com/dashboard/health-check/",
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1141,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1106,
     "timeDay": 10614,
     "timeWeek": 7971,
     "timeMonth": 4194,
     "timeYear": 1178,
     "dailyMinutesDown": {
-      "2025-11-28": 13,
       "2025-03-12": 24
     }
   },
