@@ -47,19 +47,19 @@
     "url": "https://help3.usizy.com",
     "icon": "https://icons.duckduckgo.com/ip3/help3.usizy.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 2396,
-    "timeWeek": 845,
-    "timeMonth": 469,
+    "timeDay": 1740,
+    "timeWeek": 799,
+    "timeMonth": 468,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2025-12-12": 0
+      "2025-12-12": 11
     }
   }
 ]
