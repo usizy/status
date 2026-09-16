@@ -5,17 +5,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "usizy",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 499,
-    "timeWeek": 483,
-    "timeMonth": 494,
-    "timeYear": 1244,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.98%",
+    "time": 1227,
+    "timeDay": 416,
+    "timeWeek": 489,
+    "timeMonth": 493,
+    "timeYear": 1245,
+    "dailyMinutesDown": {
+      "2025-11-28": 50,
+      "2025-11-30": 31,
+      "2025-12-15": 27
+    }
   },
   {
     "name": "Dashboard",
@@ -23,17 +27,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/usizy.com.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 1320,
-    "timeDay": 309,
-    "timeWeek": 345,
-    "timeMonth": 482,
-    "timeYear": 1509,
-    "dailyMinutesDown": {}
+    "timeDay": 436,
+    "timeWeek": 371,
+    "timeMonth": 481,
+    "timeYear": 1514,
+    "dailyMinutesDown": {
+      "2025-11-28": 50,
+      "2025-11-30": 63,
+      "2025-12-15": 27,
+      "2026-04-23": 28
+    }
   },
   {
     "name": "Help",
@@ -47,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 325,
-    "timeDay": 396,
-    "timeWeek": 271,
-    "timeMonth": 303,
+    "timeDay": 128,
+    "timeWeek": 264,
+    "timeMonth": 296,
     "timeYear": 320,
     "dailyMinutesDown": {}
   }
